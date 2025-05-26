@@ -5,6 +5,12 @@
 This is a fully featured **internal Aimbot and ESP** for *AssaultCube v1.3.0.2*.
 It is part of a larger writeup that teaches how to reverse engineer a game and build a complete cheat from scratch.
 
+[Link to article](https://adminions.ca/books/articles/page/part-2-from-reverse-engineering-to-cheat-development-internal-game-hacks-with-assaultcube)
+
+[![Internal Cheat Demo](https://img.youtube.com/vi/O_oeZ3_XAl0/0.jpg)](https://www.youtube.com/watch?v=O_oeZ3_XAl0)
+
+![DemoImg](Demo.jpg)
+
 #### Features
 * Internal **ESP overlay** (DirectX9 + ImGui)
 * Configurable **Aimbot** with hotkey & FOV support
