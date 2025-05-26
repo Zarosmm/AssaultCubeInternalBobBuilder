@@ -5,18 +5,22 @@
 This is a fully featured **internal Aimbot and ESP** for *AssaultCube v1.3.0.2*.
 It is part of a larger writeup that teaches how to reverse engineer a game and build a complete cheat from scratch.
 
-Article: [Link to article](https://adminions.ca/books/articles/page/part-2-from-reverse-engineering-to-cheat-development-internal-game-hacks-with-assaultcube)
+**Article** : [Link to article](https://adminions.ca/books/articles/page/part-2-from-reverse-engineering-to-cheat-development-internal-game-hacks-with-assaultcube)
 
-Youtube Demo: [![Internal Cheat Demo](https://img.youtube.com/vi/O_oeZ3_XAl0/0.jpg)](https://www.youtube.com/watch?v=O_oeZ3_XAl0)
+**Youtube Demo**: 
+[![Internal Cheat Demo](https://img.youtube.com/vi/O_oeZ3_XAl0/0.jpg)](https://www.youtube.com/watch?v=O_oeZ3_XAl0)
 
+
+**Screenshot**:
 ![DemoImg](Demo.jpg)
+
 
 #### Features
 * Internal **ESP overlay** (DirectX9 + ImGui)
 * Configurable **Aimbot** with hotkey & FOV support
 * **Silent Aim** (function hook)
 * **Instant Kill** (damage hook)
-* **No Recoil**, **Unlimited Ammo**, **Godmode**, and **Fast Shooting**
+* **Noclip**, **No Recoil**, **Unlimited Ammo**, **Godmode**, and **Fast Shooting**
 * Dynamic animated ImGui menu
 * Self-contained DLL — **no external memory reads or OpenGL hooks**
 
@@ -51,9 +55,8 @@ Youtube Demo: [![Internal Cheat Demo](https://img.youtube.com/vi/O_oeZ3_XAl0/0.j
 This repository is part of a hands-on article that walks through:
 
 * Reversing player structs and view/collision logic
-* Hooking game internals with `__usercall` and MinHook
+* Hooking game internals with MinHook
 * ESP and aimbot implementation from scratch
-* Injecting and running code safely in an OpenGL game via DirectX overlay
 
 
 **Author:** [BobBuilder / Raphael](https://adminions.ca/books/the-team/page/bobbuilder)
