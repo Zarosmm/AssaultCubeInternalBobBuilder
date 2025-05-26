@@ -5,9 +5,9 @@
 This is a fully featured **internal Aimbot and ESP** for *AssaultCube v1.3.0.2*.
 It is part of a larger writeup that teaches how to reverse engineer a game and build a complete cheat from scratch.
 
-[Link to article](https://adminions.ca/books/articles/page/part-2-from-reverse-engineering-to-cheat-development-internal-game-hacks-with-assaultcube)
+Article: [Link to article](https://adminions.ca/books/articles/page/part-2-from-reverse-engineering-to-cheat-development-internal-game-hacks-with-assaultcube)
 
-[![Internal Cheat Demo](https://img.youtube.com/vi/O_oeZ3_XAl0/0.jpg)](https://www.youtube.com/watch?v=O_oeZ3_XAl0)
+Youtube Demo: [![Internal Cheat Demo](https://img.youtube.com/vi/O_oeZ3_XAl0/0.jpg)](https://www.youtube.com/watch?v=O_oeZ3_XAl0)
 
 ![DemoImg](Demo.jpg)
 
@@ -55,6 +55,6 @@ This repository is part of a hands-on article that walks through:
 * ESP and aimbot implementation from scratch
 * Injecting and running code safely in an OpenGL game via DirectX overlay
 
-**Full writeup:** [adminions.ca](https://adminions.ca/books/the-team/page/bobbuilder)
+
 **Author:** [BobBuilder / Raphael](https://adminions.ca/books/the-team/page/bobbuilder)
 **License:** [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
